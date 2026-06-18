@@ -196,6 +196,7 @@
 | songkick | <img src="../icons/songkick.png" alt="songkick" width="50"> |  <img src="../icons/songkick.svg" alt="songkick" width="50"> |
 | sophos | <img src="../icons/sophos.png" alt="sophos" width="50"> |  <img src="../icons/sophos.svg" alt="sophos" width="50"> |
 | soulmask | <img src="../icons/soulmask.png" alt="soulmask" width="50"> |   |
+| soulmask-logo | <img src="../icons/soulmask-logo.png" alt="soulmask-logo" width="50"> |   |
 | soulseek | <img src="../icons/soulseek.png" alt="soulseek" width="50"> |   |
 | sound-meter | <img src="../icons/sound-meter.png" alt="sound-meter" width="50"> |  <img src="../icons/sound-meter.svg" alt="sound-meter" width="50"> |
 | soundcloud | <img src="../icons/soundcloud.png" alt="soundcloud" width="50"> |  <img src="../icons/soundcloud.svg" alt="soundcloud" width="50"> |
