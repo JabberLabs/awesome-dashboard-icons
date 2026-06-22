@@ -161,6 +161,9 @@
 | mindustry | <img src="../icons/mindustry.png" alt="mindustry" width="50"> |  <img src="../icons/mindustry.svg" alt="mindustry" width="50"> |
 | mine-video-player | <img src="../icons/mine-video-player.png" alt="mine-video-player" width="50"> |  <img src="../icons/mine-video-player.svg" alt="mine-video-player" width="50"> |
 | minecraft | <img src="../icons/minecraft.png" alt="minecraft" width="50"> |  <img src="../icons/minecraft.svg" alt="minecraft" width="50"> |
+| minecraft-mod-cobblemon | <img src="../icons/minecraft-mod-cobblemon.png" alt="minecraft-mod-cobblemon" width="50"> |   |
+| minecraft-mod-create | <img src="../icons/minecraft-mod-create.png" alt="minecraft-mod-create" width="50"> |   |
+| minecraft-mod-minigames | <img src="../icons/minecraft-mod-minigames.png" alt="minecraft-mod-minigames" width="50"> |   |
 | mineos | <img src="../icons/mineos.png" alt="mineos" width="50"> |   |
 | minha-escola-sp | <img src="../icons/minha-escola-sp.png" alt="minha-escola-sp" width="50"> |  <img src="../icons/minha-escola-sp.svg" alt="minha-escola-sp" width="50"> |
 | miniflux | <img src="../icons/miniflux.png" alt="miniflux" width="50"> |  <img src="../icons/miniflux.svg" alt="miniflux" width="50"> |
